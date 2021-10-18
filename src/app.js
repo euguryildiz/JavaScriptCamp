@@ -25,6 +25,8 @@ let konutKredileri = ["Özel Konut Kredisi", "Konut Kredisi", "Emlak Konut Kredi
 
 console.log(konutKredileri);
 
+
+
 console.log("<ul>");
 for (let i = 0; i < konutKredileri.length; i++) {
     const element = konutKredileri[i];
